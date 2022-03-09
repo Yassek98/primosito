@@ -1,0 +1,33 @@
+﻿* {
+    color:blue;
+
+
+}
+
+#Titolo{
+    color: black;
+    font-size:larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#Titolo:hover{
+
+    color: red;
+}
+
+.lista:hover {
+    color: orangered;
+}
+
+.lista{
+    color: yellow;
+}
+
+div li{
+    color: magenta;
+}
+
+#bottone:hover{
+    color: black;
+
+}
